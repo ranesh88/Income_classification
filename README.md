@@ -171,13 +171,13 @@ Marital Status: Married-civ-spouse (Importance: 0.0629): Marriage, especially in
 
 Hours per Week (Importance: 0.0432): Individuals working more hours generally earn more, although this varies by job type.
 
-Conclusion
+## Conclusion
 This project demonstrates the power of machine learning in predicting income based on demographic and socio-economic factors. The Random Forest model performs exceptionally well, offering high accuracy and predictive power. Further refinements can be made by tuning hyperparameters or exploring other machine learning algorithms.
 
 License
 This project is licensed under the MIT License.
 
-This README file offers a professional overview of your project, ensuring that anyone reviewing it will understand the context, installation process, usage, and results. If you'd like to customize any section further, feel free to let me know!
+This README file offers a professional overview of your project, ensuring that anyone reviewing it will understand the context, installation process, usage, and results. 
 
 
 
