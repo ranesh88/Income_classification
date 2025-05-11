@@ -1,0 +1,10 @@
+scikit-learn>=1.0
+xgboost>=1.6
+numpy
+pandas
+joblib
+flask
+streamlit
+notebook
+matplotlib
+seaborn

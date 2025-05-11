@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.ipynb
+*.xlsx
+.DS_Store
+.env
